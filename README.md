@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Matias
-- 🌱 I’m currently learning Java, HTML, CSS, JS, Bootstrap, SpringBoot & Python.
+- 🌱 I’m currently learning Java, HTML, CSS, JS, Bootstrap, SpringBoot, SQL & Python.
